@@ -154,14 +154,14 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 ## 🌑 The Process
 
-```
+
 [ 22:00 ] a problem refuses to leave my head
 [ 22:05 ] new repo -> git commit -m "begin"
 [ 02:30 ] debugging in the hostel, one coffee deep
 [ 05:00 ] deployed: rough, but REAL
 [ 09:00 ] first user finds a bug
 [ 12:00 ] v2 ships. Repeat.
-```
+
 
 | 🔥 Fuel | 🧠 Allies | 🎯 Rules |
 |:---:|:---:|:---:|
