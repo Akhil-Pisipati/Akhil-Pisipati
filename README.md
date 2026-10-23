@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Akhil Pisipati" />
+<img src="banner.svg" width="100%" alt="Akhil Pisipati" />
 
 <br/><br/>
 
@@ -190,3 +190,11 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 [exit 0]  ▮
 ```
+
+
+
+
+
+
+
+
