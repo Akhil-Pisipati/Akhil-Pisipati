@@ -1,44 +1,68 @@
-<h1 align="center">Hi, I'm Akhil 👋</h1>
+<h1 align="center">Hey, I'm Akhil 👋</h1>
 
 <p align="center">
-  CSE student · building toward fintech & data/AI engineering
+  First-year CSE student at <b>Amrita Vishwa Vidyapeetham, Coimbatore</b><br/>
+  Building toward fintech and data/AI engineering, one project at a time.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhil-Pisipati&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat" alt="open to internships" />
+  <img src="https://img.shields.io/badge/Aiming%20for-GSoC-orange?style=flat" alt="GSoC" />
 </p>
 
-<br>
+---
 
-### About Me
+## 🧭 About me
 
-- 🎓 First-year CSE student at Amrita Vishwa Vidyapeetham, Coimbatore
-- 🌱 Currently learning Python, DSA, and the foundations of data engineering
-- 🔬 Working on a computer-vision research project estimating nutritional intake from images
-<br>
+- 🎓 Studying Computer Science & Engineering at Amrita, Coimbatore
+- 🔭 Interested in **fintech** and **data / AI engineering**
+- 🌱 Currently strengthening Python, DSA and data engineering fundamentals
+- 🤝 Working toward **GSoC** and meaningful open-source contributions
+- 💼 Looking for internships where I can build and learn fast
 
-### Tech Stack
+## 🚀 Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| **[My Bud](https://github.com/YOUR_USERNAME/my-bud)** | "Your buddy for planning your day": timetable, tasks and future plans in one place, with Google login and dark mode | React, TypeScript, Tailwind CSS, Supabase |
+| **NxtGen** (iQOO Hackathon, Team Aditya Squad) | A calm, personal AI learning OS for the *Smart Education* problem statement | Gemini Flash, Groq, Supabase, Vercel |
+| **Earth-motion detection** (Genesis'26 ideathon, Amrita) | Ideathon concept for detecting earth motion | Concept / pitch |
+| **Nutrition CV research** | AI computer-vision research on assessing children's nutritional intake | Computer vision, Python |
 
-<br>
+> 📌 Pin your best 4–6 repos and replace the links above with the real ones.
 
-### GitHub Stats
+## 🛠️ Tech & tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📚 Currently learning
+
+- Python (CS50P, freeCodeCamp Scientific Computing with Python)
+- Data structures & algorithms
+- Data engineering fundamentals
+- How open-source projects and GSoC workflows run
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Pisipati&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Pisipati&theme=default&hide_border=true" width="48%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
-<br>
+## 📫 Let's connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>Always happy to talk about open source, hackathons, or anything in data and AI.</i></p>
+
+
