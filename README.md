@@ -1,77 +1,83 @@
 <!--
-  PALETTE (swap these hex codes everywhere to re-theme in one find-and-replace)
-  Navy bg   0B1F3A   |  UA green  1E8F4E  |  Mint  3ECF8E
-  Gold      FFD60A   |  Hero red  E63946  |  Text  E8ECF4
-  Replace YOUR_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL before publishing.
+  PALETTE: Void 0A0A0C | Ash 15151A | Blood E01E37 | Dried blood B3121F | Steel 8A8F98 | Bone EDEDED
+  Only YOUR_LINKEDIN and YOUR_EMAIL need replacing.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1F3A,45:1E8F4E,100:FFD60A&height=260&section=header&text=AKHIL&fontSize=90&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=%E2%9A%A1%20PLUS%20ULTRA%20%E2%9A%A1&descSize=24&descAlignY=66" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Akhil Pisipati" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFD60A&center=true&vCenter=true&width=700&lines=First-year+CSE+%40+Amrita+Coimbatore;Building+toward+fintech+%26+data%2FAI+engineering;Chasing+GSoC+and+open+source;Going+beyond.+Plus+Ultra!" alt="typing" /></a>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-B3121F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Akhil-Pisipati"><img src="https://img.shields.io/badge/GITHUB-15151A?style=for-the-badge&logo=github&logoColor=E01E37" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/MAIL-E01E37?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Akhil-Pisipati?style=for-the-badge&label=FOLLOWERS&labelColor=555555&color=B3121F" />
+<img src="https://komarev.com/ghpvc/?username=Akhil-Pisipati&label=PROFILE+VIEWS&color=E01E37&style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-CSE%20STUDENT-1E8F4E?style=for-the-badge&labelColor=0B1F3A" />
-<img src="https://img.shields.io/badge/GOAL-GSoC-FFD60A?style=for-the-badge&labelColor=0B1F3A" />
-<img src="https://img.shields.io/badge/PATH-FINTECH%20%7C%20DATA%2FAI-E63946?style=for-the-badge&labelColor=0B1F3A" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-3ECF8E?style=for-the-badge&labelColor=0B1F3A" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E01E37&center=true&vCenter=true&width=720&lines=First-year+CSE+%40+Amrita+Coimbatore;Fintech+%26+data%2FAI+engineering+in+the+making;Chasing+GSoC+and+open+source;No+cursed+energy.+Just+code." alt="typing" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E8F4E,100:FFD60A&height=3&section=header" width="100%" />
+```
+◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈
+```
 
-## 🦸 Hero Profile
+## 🩸 Profile
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
 ```yaml
-hero_name : Akhil
+name      : Akhil Pisipati
 academy   : Amrita Vishwa Vidyapeetham, Coimbatore
 class     : B.Tech CSE, Year 1
 base      : Hostel (night-shift coder)
-quirk     : One For All  # open source, power shared
-hero_path : [Fintech, Data/AI Engineering]
+style     : Heavenly Restriction  # no shortcuts, pure fundamentals
+path      : [Fintech, Data/AI Engineering]
 quests    : [GSoC, Open Source, Internships]
-motto     : "Plus Ultra!"
+creed     : "Skill over luck."
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0B1F3A&title_color=FFD60A&icon_color=3ECF8E&text_color=E8ECF4" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akhil-Pisipati&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0A0A0C&title_color=E01E37&icon_color=E01E37&text_color=EDEDED" alt="stats" />
 
 </td>
 </tr>
 </table>
 
-## 🧰 Tech Stack
+## 🗡️ Arsenal
 
-**⚔️ Core Skills**
+**Core**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" />
 
-**🎨 Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" />
 
-**🗄️ Backend & Database**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs&theme=dark" />
 
-**🛠️ Tools & Platforms**
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,windows&theme=dark" />
 
-**🧪 Training Grounds (Exploring)**
+**Sharpening (Exploring)**
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,opencv&theme=dark" />
 
 <details>
-<summary><b>📋 Full list</b></summary>
+<summary><b>Full list</b></summary>
 
 | Category | Stack |
 |---|---|
@@ -84,14 +90,7 @@ motto     : "Plus Ultra!"
 
 </details>
 
-## ⚡ Hero Missions
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/my-bud"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=my-bud&hide_border=true&bg_color=0B1F3A&title_color=FFD60A&icon_color=3ECF8E&text_color=E8ECF4" /></a>
-<a href="https://github.com/YOUR_USERNAME/nxtgen"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=nxtgen&hide_border=true&bg_color=0B1F3A&title_color=FFD60A&icon_color=3ECF8E&text_color=E8ECF4" /></a>
-
-</div>
+## ⚔️ Missions
 
 | Mission | Objective | Gear |
 |---|---|---|
@@ -110,9 +109,7 @@ Data Engineering basics ......... [███░░░░░░░] warming up
 Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 ```
 
-*(Bars are rough self-estimates. Adjust them honestly as you grow.)*
-
-## 🗺️ Roadmap to Pro Hero
+## 🗺️ Roadmap
 
 - [x] Set up dev environment (Python, VS Code, Git)
 - [x] Finish CS50P
@@ -126,15 +123,15 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/1E8F4E/YOUR_USERNAME" alt="contribution calendar" width="95%" />
+<img src="https://ghchart.rshah.org/B3121F/Akhil-Pisipati" alt="contribution calendar" width="95%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0B1F3A&color=E8ECF4&line=3ECF8E&point=FFD60A&area=true&area_color=1E8F4E" alt="activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhil-Pisipati&theme=github-compact&hide_border=true&bg_color=0A0A0C&color=EDEDED&line=E01E37&point=EDEDED&area=true&area_color=B3121F" alt="activity graph" width="95%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake" width="95%" />
+<img src="https://raw.githubusercontent.com/Akhil-Pisipati/Akhil-Pisipati/output/github-snake-dark.svg" alt="snake" width="95%" />
 
 </div>
 
@@ -142,8 +139,8 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&langs_count=8&bg_color=0B1F3A&title_color=FFD60A&text_color=E8ECF4" alt="top languages" />
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1F3A&stroke=1E8F4E&ring=FFD60A&fire=E63946&currStreakNum=E8ECF4&sideNums=E8ECF4&currStreakLabel=FFD60A&sideLabels=3ECF8E&dates=9AA7BD" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Pisipati&layout=donut&hide_border=true&langs_count=8&bg_color=0A0A0C&title_color=E01E37&text_color=EDEDED" alt="top languages" />
+<img height="170" src="https://streak-stats.demolab.com?user=Akhil-Pisipati&theme=dark&hide_border=true&background=0A0A0C&stroke=2A2A30&ring=E01E37&fire=E01E37&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=E01E37&sideLabels=8A8F98&dates=8A8F98" alt="streak" />
 
 </div>
 
@@ -151,28 +148,28 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=Akhil-Pisipati&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 🌟 The Hero Process
+## 🌑 The Process
 
 ```
 [ 22:00 ] a problem refuses to leave my head
-[ 22:05 ] new repo -> git commit -m "plus ultra"
+[ 22:05 ] new repo -> git commit -m "begin"
 [ 02:30 ] debugging in the hostel, one coffee deep
 [ 05:00 ] deployed: rough, but REAL
 [ 09:00 ] first user finds a bug
-[ 12:00 ] v2 ships. Go beyond. Repeat.
+[ 12:00 ] v2 ships. Repeat.
 ```
 
-| 🔥 Fuel | 🧠 Allies | 🎯 Hero Rules |
+| 🔥 Fuel | 🧠 Allies | 🎯 Rules |
 |:---:|:---:|:---:|
 | Late nights | VS Code · GitHub | Demo beats deck |
 | Anime breaks | Supabase · Vercel | Ship, then polish |
-| Never give up | AI pair-programming | Learn in public |
+| Stubborn discipline | AI pair-programming | Learn in public |
 
-## 🤝 Let's Team Up
+## 🤝 Team Up
 
 - 🌱 Looking for beginner-friendly open-source issues
 - 💬 Ask me about: hackathons, Supabase, React + TypeScript, Python basics
@@ -180,17 +177,16 @@ Open source + GSoC workflow ..... [██░░░░░░░░] scouting
 
 <div align="center">
 
-> *"Plus Ultra! Go beyond, even then, go further beyond."*
+> *"Skill over luck."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFD60A&style=for-the-badge&label=HEROES+VISITED" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD60A,55:1E8F4E,100:0B1F3A&height=140&section=footer" width="100%" alt="footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15151A?style=for-the-badge&logo=linkedin&logoColor=E01E37)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-15151A?style=for-the-badge&logo=gmail&logoColor=E01E37)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-15151A?style=for-the-badge&logo=github&logoColor=E01E37)](https://github.com/Akhil-Pisipati)
 
 </div>
 
+```
+◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈
 
-
+[exit 0]  ▮
+```
